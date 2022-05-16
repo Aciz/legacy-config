@@ -12,6 +12,8 @@ The configs are updated for
 ## Usage
 This config is only contains settings which are adjusted from default. **Any cvar not included in `autoexec.cfg` is meant to be at it's default setting.** The only exception to this is binds, the config contains `unbindall` command at the start, and then sets all default bindings + whatever I have personally adjusted from defaults.
 
+Along with spawnpoints, map-specific configs contain per-map `r_mapOverBrightBits` setting. Since the cvar is latched, I have bound `vid_restart` to `KP_DEL`, and simply hit that at the start of each map, to apply the correct setting.
+
 ## Installation
 * Download the repository as ZIP or clone with `git clone git@github.com:Aciz/legacy-config.git`
 * Backup your `etconfig.cfg` in `fs_homepath/legacy/profiles/yourprofile/etconfig.cfg`
