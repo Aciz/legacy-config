@@ -10,11 +10,11 @@ The configs are updated for
 * Legacy mod **2.80.2**
 
 ## Usage
-This config is only contains settings which are adjusted from default. **Any cvar not included in `autoexec.cfg` is meant to be at it's default setting.** The only exception to this is binds, the config contains `unbindall` command at the start, and then sets all default bindings + whatever I have personally adjusted from defaults.
+This config is only contains settings which are adjusted from default. **Any cvar not included in `autoexec.cfg` is meant to be at it's default setting.** The only exception to this is binds and few cvars which are included in scripts (`r_mode` for example). The config contains `unbindall` command at the start, and then sets all default bindings + whatever I have personally adjusted from defaults.
 
 Along with spawnpoints, map-specific configs contain per-map `r_mapOverBrightBits` setting. Since the cvar is latched, I have bound `vid_restart` to `KP_DEL`, and simply hit that at the start of each map, to apply the correct setting.
 
-Regarding sensitivity: I use 800DPI, with raw input enabled. Adjust according to your DPI. Adjusted settings should result in **960 eDPI**, with **43.3cm/360°**. 
+Regarding sensitivity: I use 800DPI, with raw input enabled. Adjust according to your DPI. Adjusted settings should result in **800 eDPI**, with **51.95cm/360°**. Or you know, just you a sensitivity that you're comfortable with.
 
 ## Installation
 * Download the repository as ZIP or clone with `git clone git@github.com:Aciz/legacy-config.git`
@@ -42,7 +42,7 @@ Class binds are bound to numpad. Following table visualizes the binds in numpad.
 |           |           |           |
 | Medic     | Engineer  | Engineer  |
 |           | SMG       | Rifle     |
-------------------------------------
+-------------------------------------
 |     4     |     5     |     6     |
 |           |           |           |
 | Field Ops | Cvops     | Cvops     |
