@@ -14,7 +14,7 @@ This config is only contains settings which are adjusted from default. **Any cva
 
 Along with spawnpoints, map-specific configs contain per-map `r_mapOverBrightBits` setting. Since the cvar is latched, I have bound `vid_restart` to `KP_DEL`, and simply hit that at the start of each map, to apply the correct setting.
 
-Regarding sensitivity: I use 800DPI, with raw input enabled. Adjust according to your DPI. Adjusted settings should result in **800 eDPI**, with **51.95cm/360°**. Or you know, just you a sensitivity that you're comfortable with.
+Regarding sensitivity: I use 1600DPI, with raw input enabled. Adjust according to your DPI. Adjusted settings should result in **800 eDPI**, with **51.95cm/360°**. Or you know, just you a sensitivity that you're comfortable with.
 
 ## Installation
 * Download the repository as ZIP or clone with `git clone git@github.com:Aciz/legacy-config.git`
