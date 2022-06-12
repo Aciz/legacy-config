@@ -75,7 +75,7 @@ Spawntimer binds are bound to arrow keys, right shift and right control. Followi
 Explanation of the actions:
 * Unload - turns off spawntimer
 * Set - sets spawntimer
-* Timer -1/+1 - shift spawntimer +/-1s forward/backwards
+* Timer +1/-1 - shift spawntimer +/-1s forward/backwards
 * `RIGHTSHIFT` - prints current spawntimes to console
 * `RIGHTCTRL` - executes `sharetimer` command
 
