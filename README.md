@@ -56,7 +56,7 @@ Class binds are bound to numpad. Following table visualizes the binds in numpad.
 ```
 
 ### Spawntimer binds
-Spawntimer binds are bound to arrow keys Following table visualizes the binds in arrow keys.
+Spawntimer binds are bound to arrow keys, right shift and right control. Following table visualizes the binds in arrow keys.
 
 ```
             -------------
@@ -67,16 +67,17 @@ Spawntimer binds are bound to arrow keys Following table visualizes the binds in
 -------------------------------------
 |     <     |     v     |     >     |
 |           |           |           |
-| Check     | Set       | Share     |
-|           |           |           |
+| Timer     | Set       | Timer     |
+| -1s       |           | +1s       |
 -------------------------------------
 ```
 
 Explanation of the actions:
-* Unload = turns off spawntimer
-* Check = prints current spawntimes to console
-* Set = sets spawntimer
-* Share = executes `sharetimer` command
+* Unload - turns off spawntimer
+* Set - sets spawntimer
+* Timer -1/+1 - shift spawntimer +/-1s forward/backwards
+* `RIGHTSHIFT` - prints current spawntimes to console
+* `RIGHTCTRL` - executes `sharetimer` command
 
 ### Other scripts and binds
 
