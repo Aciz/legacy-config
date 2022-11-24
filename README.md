@@ -82,6 +82,7 @@ Explanation of the actions:
 ### Other scripts and binds
 
 * `F5` - executes `autoexec.cfg`
+* `F6` - toggle crosshairs
 * `INS` - set Axis spawnpoint
 * `HOME` - default spawnpoint for both teams
 * `PGUP` - set Allied spawnpoint
