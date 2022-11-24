@@ -1,6 +1,6 @@
 # Aciz's ETL configs
 
-![legacy-config](https://user-images.githubusercontent.com/14221121/170865336-c51e683d-cfc7-4ca0-a0cd-4765d2590b5c.jpg)
+![etlcfg-preview](https://user-images.githubusercontent.com/14221121/203873122-e992d6e1-715f-4afc-932b-6ccffa9bfa85.jpg)
 
 
 This repository contains my [ET: Legacy](https://www.etlegacy.com/) config files. This includes my standard `autoexec.cfg`, map-specific autoexec configs with spawnpoints setup for each map along with `r_mapOverBrightBits` setting and my custom HUD. The map autoexecs include original 6 maps, most of the competitive map pool and whatever happens to be in rotation at [TeamMuppet ETLegacy](https://et.trackbase.net/server/45410) server (and I've bothered to make config for), where I mostly play.
