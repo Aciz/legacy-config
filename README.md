@@ -89,6 +89,6 @@ Explanation of the actions:
 * `DEL` - toggle borderless fullscreen / windowed mode
   * Note: I have a 2560x1440 monitor, and the windowed mode is set to `r_mode 16` (1920x1080). If you have 1920x1080 screen or lower, you might wanna adjust this to `r_mode 12` (1366x768) for example.
 * `KP_SLASH` - toggle `cg_drawGun 1/2`
-* `KP_INS` - toggle `r_mapOverBrightBis 1/2`
+* `KP_INS` - toggle `r_mapOverBrightBits 1/2`
   * doesn't execute `vid_restart`
 * `KP_DEL` - executes `vid_restart`
